@@ -1,6 +1,6 @@
 [InputMethod]
 Name=UCxAf
-Icon=fcitx_wu
+Icon=fcitx_ucxaf
 Label=汖
 LangCode=zh_TW
 Addon=table
@@ -19,18 +19,7 @@ Hint=False
 DisplayCustomHint=True
 IgnorePunc=True
 Learning=False
-
 [Table/Selection]
-0=underscore
-1=apostrophe
-2=bracketleft
-3=bracketright
-4=backslash
-5=minus
-6=quotedbl
-7=braceleft
-8=braceright
-9=bar
 
 [Table/PrevPage]
 0=Up
