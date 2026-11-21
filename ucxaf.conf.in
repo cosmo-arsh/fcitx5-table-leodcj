@@ -1,13 +1,13 @@
 [InputMethod]
-Name=UCxAf
-Icon=fcitx_ucxaf
+Name=leodcj
+Icon=fcitx_leodcj
 Label=汖
 LangCode=zh_TW
 Addon=table
 Configurable=True
 
 [Table]
-File=table/ucxaf.main.dict
+File=table/leodcj.main.dict
 OrderPolicy=No
 AutoSelect=False
 NoneMatchAutoSend=0
