@@ -1,14 +1,14 @@
-pkgname=fcitx5-table-ucxaf
+pkgname=fcitx5-table-leodcj
 pkgver=5.0.10
 pkgrel=1
-pkgdesc="UCxAf tables for Fcitx5"
+pkgdesc="leodcj tables for Fcitx5"
 arch=('any')
-url="https://github.com/cosmo-arsh/fcitx5-table-ucxaf"
+url="https://github.com/cosmo-arsh/fcitx5-table-leodcj"
 license=('GPL')
 depends=('fcitx5-chinese-addons')
 makedepends=('extra-cmake-modules' 'boost')
 
-source=("fcitx5-table-ucxaf::git+https://github.com/cosmo-arsh/fcitx5-table-ucxaf.git")
+source=("fcitx5-table-ucxaf::git+https://github.com/cosmo-arsh/fcitx5-table-leodcj.git")
 
 sha512sums=('SKIP')
 
